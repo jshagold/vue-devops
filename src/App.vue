@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your HaGi App" />
+  <HelloWorld msg="test success" />
 </template>
 
 <script>
